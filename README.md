@@ -1,4 +1,3 @@
-<a href="#"><img width="100%" height="auto" src=https://comicvine.gamespot.com/a/uploads/original/11124/111241030/4942818-sasuke_-_ems_susanoo.gif height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sasuke (Aman)</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
