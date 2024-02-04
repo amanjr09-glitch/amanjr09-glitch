@@ -50,8 +50,10 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
-
-##🔗 Connect with me
+<br/>
+<br/>
+<br/>
+## 🔗 Connect with me
 
 <p align="left">
  <a href = "https://www.linkedin.com/in/vaibhav-pal-8411a0160/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
