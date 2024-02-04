@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vaibhav (Sasuke)</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vaibhav (Sasuke)</h1>
+<h3 align="left">I'm a passionate Full Stack Developer from India.</h3>
 
 ## 🙋‍♂️ About Me
 
