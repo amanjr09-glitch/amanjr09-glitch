@@ -4,13 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[E-commerce App](https://konoha-sign-up.web.app/)**
-
-- 🌱 I’m currently learning **REACTJS and MongoDB**
-
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/amanjr09-glitch)**
 
 - 📫 How to reach me **Paman9095@gmail.com**
 
@@ -56,27 +50,17 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
-<br/>
 
-<!-- <a href="https://github.com/amanjr09-glitch/github-readme-activity-graph"><img alt="amanjr09-glitch Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amanjr09-glitch&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
-
-<br/>
-<br/>
-
-## Connect with me
+##🔗 Connect with me
 
 <p align="left">
-
-<!-- <a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
-<a href = "https://www.instagram.com/ig.sasuke_09/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<!-- <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
-
+ <a href = "https://www.linkedin.com/in/vaibhav-pal-8411a0160/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+ <a href = "https://x.com/Vxibhxv_?t=sskYVQkQ2FakYY5XHHe8hA&s=09"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
 
 ## ❤ Views and Followers
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=amanjr09-glitch">
+<a href="https://github.com/amanjr09-glitch/github-profile-views-counter">
+<img src="https://komarev.com/ghpvc/?username=amanjr09-glitch">
 </a>
 <a href="https://github.com/amanjr09-glitch?tab=followers"><img src="https://img.shields.io/github/followers/amanjr09-glitch?label=Followers&style=social" alt="GitHub Badge"></a>
