@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **Paman9095@gmail.com**
+- 📫 How to reach me **atsyt09@gmail.com**
 
 - ⚡ Fun fact **I play games and like devloping.**
 
