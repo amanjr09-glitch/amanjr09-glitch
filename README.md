@@ -11,7 +11,9 @@
 </p>
 
 <br/>
-
+<p align="right">
 <a href="https://github.com/amanjr09-glitch/github-profile-views-counter">
 <img src="https://komarev.com/ghpvc/?username=amanjr09-glitch">
 </a>
+</p>
+
